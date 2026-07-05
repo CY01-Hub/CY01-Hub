@@ -1,7 +1,9 @@
-## Hi there 👋
+## Dhrubo Dey
 # 💫 About Me:
 Third-year Computer Science student with CGPA above 9.0, focused on data structures, algorithms, and system-level problem<br>solving. <br>Builds projects from scratch without tutorials, covering file management utilities, encryption tools, and Using AI.<br>Seeking to apply strong programming fundamentals and algorithmic thinking toward a Software Engineering role, with a long-term goal<br>in Cybersecurity.
 
+## 🧑🏻‍💻 Portfolio: 
+https://cy01-hub.github.io/Portfolio/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhrubo-dey-98611b3bb) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhrubodey18@gmail.com) 
