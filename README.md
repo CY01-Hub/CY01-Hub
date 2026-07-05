@@ -1,4 +1,4 @@
-## Dhrubo Dey
+## Hi there, I am Dhrubo Dey 🫱🏼‍🫲🏽
 # 💫 About Me:
 Third-year Computer Science student with CGPA above 9.0, focused on data structures, algorithms, and system-level problem<br>solving. <br>Builds projects from scratch without tutorials, covering file management utilities, encryption tools, and Using AI.<br>Seeking to apply strong programming fundamentals and algorithmic thinking toward a Software Engineering role, with a long-term goal<br>in Cybersecurity.
 
