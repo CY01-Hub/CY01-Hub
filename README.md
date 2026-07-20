@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://cy01-hub.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live%20Portfolio-Explore%20Now-🚀?style=for-the-badge&logo=googlechrome&logoColor=white&color=00599C" /></a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/dhrubo-dey"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/dhrubo-dey"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dhrubodey18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
