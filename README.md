@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I am Dhrubo Dey</h1>
-<h3 align="center">Third-Year Computer Science Student | 9.0+ CGPA | Software Engineering & Cybersecurity Enthusiast</h3>
+<h3 align="center">Computer Science Student | 9.0+ CGPA | Software Engineering & Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <a href="https://cy01-hub.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live%20Portfolio-Explore%20Now-🚀?style=for-the-badge&logo=googlechrome&logoColor=white&color=00599C" /></a>
