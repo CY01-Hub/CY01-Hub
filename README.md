@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="banner.png" alt="Dhrubo Dey Banner" width="100%" />
+</div>
+
+<!-- <div align="center">
 
 # Hi, I'm Dhrubo Dey 👋
 
@@ -6,7 +10,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Applications;Backend+Developer+using+Python+%26+Flask;Learning+Cybersecurity;Always+Building+Something+New" alt="Typing SVG" />
 
-</div>
+</div> -->
 
 ---
 
