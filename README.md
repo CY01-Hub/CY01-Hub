@@ -1,67 +1,169 @@
-<h1 align="center">👋 Hi there, I am Dhrubo Dey</h1>
-<h3 align="center">Computer Science Student | 9.0+ CGPA | Software Engineering & Cybersecurity Enthusiast</h3>
+<div align="center">
+
+# Hi, I'm Dhrubo Dey 👋
+
+### Python Developer • AI Enthusiast • Backend Developer • Cybersecurity Learner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Applications;Backend+Developer+using+Python+%26+Flask;Learning+Cybersecurity;Always+Building+Something+New" alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 💫 About Me
+
+</div>
+
+I'm a Computer Science & Engineering student focused on backend software development, artificial intelligence, and cybersecurity.
+
+I enjoy designing and developing intelligent web applications that combine clean user experiences with reliable backend systems. My current work primarily involves building AI-powered platforms using Python and Flask while continuously strengthening my understanding of software engineering, databases, and computer science fundamentals.
+
+---
+
+<div align="center">
+
+# 📫 Connect With Me
+
+</div>
 
 <p align="center">
-  <a href="https://cy01-hub.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live%20Portfolio-Explore%20Now-🚀?style=for-the-badge&logo=googlechrome&logoColor=white&color=00599C" /></a>
-  <a href="https://linkedin.com/in/dhrubo-dey"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:dhrubodey18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<a href="https://github.com/CY01-Hub">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/dhrubo-dey">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://cy01-hub.github.io/Portfolio/">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
+</a>
+
 </p>
 
 ---
 
-### 💫 About Me
+<div align="center">
 
-I am an academic-driven Computer Science student with a **CGPA above 9.0**, deeply focused on Data Structures, Algorithms, and system-level problem-solving. I pride myself on building complex technical projects completely **from scratch without tutorials**, engineering everything from local system tools to intelligent web services.
+# 💻 Tech Stack
 
-*   🔭 **Career Objective:** Seeking to apply strong programming fundamentals and rigorous algorithmic thinking toward a Software Engineering role.
-*   🛡️ **Long-Term Goal:** Transitioning into cutting-edge Cybersecurity and digital asset protection.
+</div>
 
----
-
-### 💻 Tech Stack & Toolkit
-
-<p align="left">
-  <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
-  <!-- Backend & Data -->
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <!-- Data Science / Tooling -->
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white" alt="Anaconda" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <!-- Web Frontend -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
----
-
-### 🏗️ Notable From-Scratch Projects
-
-*   🧠 **AI Medical Report Analyzer:** An end-to-end processing engine mapping raw, unstructured clinical diagnostic text directly into robust, complex structural JSON frameworks.
-*   ⚡ **AI-Powered Study Notes Generator:** A full file processing pipeline parsing text files to auto-generate structured modular revision guides, analytical flashcards, and study maps.
-
----
-
-### 📊 GitHub Activity Dashboard
+### Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=CY01-Hub&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" width="48%" alt="Dhrubo's Stats" />
-  <img src="https://streak-stats.demolab.com/?user=CY01-Hub&theme=shadow_blue&hide_border=false" width="48%" alt="Dhrubo's Streak" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
 </p>
 
+### Backend
+
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=CY01-Hub&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="65%" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=flask" />
 </p>
 
-#### 📈 Contribution Over Time
+### Database
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CY01-Hub&theme=shadow-blue&bg_color=1a1b26&hide_border=false" width="100%" alt="Contribution Graph" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
+
+<div align="center">
+
+# 🌟 Featured Projects
+
+</div>
+
+## 🩺 ClinixParse AI
+
+An AI-powered healthcare platform that transforms complex medical reports into clear, easy-to-understand insights, helping users better understand their health information.
+
+### Features
+
+- Upload PDF/DOCX Medical Reports
+- AI-Powered Medical Report Analysis
+- Health Summary & Key Insights
+- Detection of Abnormal Test Values
+- Secure Medical History
+- User Authentication
+
+---
+
+## 💼 PathForge AI
+
+An AI-powered career development platform designed to help users build stronger resumes and improve job readiness through intelligent analysis and personalized recommendations.
+
+### Features
+
+- ATS Compatibility Analysis
+- Resume Review & Feedback
+- Missing Skills Identification
+- Job Description Matching
+- AI-Powered Career Suggestions
+
+---
+
+## 📚 Synthetic AI
+
+An intelligent study assistant that converts educational documents into structured learning materials, making studying more efficient and interactive.
+
+### Features
+
+- Upload Study Materials
+- AI-Generated Smart Notes
+- Flashcards
+- Important Questions
+- AI Summaries
+- Organized Learning Dashboard
+
+---
+
+<div align="center">
+
+# 📈 GitHub Statistics
+
+</div>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=CY01-Hub&theme=tokyonight&show_icons=true&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=CY01-Hub&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CY01-Hub&theme=tokyonight&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 Contribution Graph
+
+</div>
+
+<div align="center">
+
+[![Dhrubo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CY01-Hub&theme=tokyo-night&hide_border=true)](https://github.com/CY01-Hub)
+
+</div>
+
+---
+
+<div align="center">
+
+### "Building intelligent software through continuous learning."
+
+Thanks for visiting my profile.
+
+</div>
