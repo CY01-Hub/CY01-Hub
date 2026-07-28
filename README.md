@@ -136,9 +136,6 @@ An intelligent study assistant that converts educational documents into structur
 
 # 🏆 Achievements & GitHub Stats
 
-### Most Used Languages
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CY01-Hub&theme=tokyonight" alt="Most Used Languages" />
-
 ### GitHub Contribution Overview
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CY01-Hub&theme=tokyonight&hide_border=true" alt="GitHub Contribution Overview" />
 </div>
