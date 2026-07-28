@@ -59,25 +59,25 @@ I enjoy designing and developing intelligent web applications that combine clean
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,java,c" />
 </p>
 
-### Backend
+### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### Database
+### Backend & Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=flask,mysql,sqlite" />
 </p>
 
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,anaconda" />
 </p>
 
 ---
@@ -134,18 +134,13 @@ An intelligent study assistant that converts educational documents into structur
 
 <div align="center">
 
-# 📈 GitHub Statistics
+# 🏆 Achievements & GitHub Stats
 
-</div>
+### Most Used Languages
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CY01-Hub&theme=tokyonight" alt="Most Used Languages" />
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=CY01-Hub&theme=tokyonight&show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=CY01-Hub&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CY01-Hub&theme=tokyonight&layout=compact&hide_border=true)
-
+### GitHub Contribution Overview
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CY01-Hub&theme=tokyonight&hide_border=true" alt="GitHub Contribution Overview" />
 </div>
 
 ---
