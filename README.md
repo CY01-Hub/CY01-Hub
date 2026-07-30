@@ -77,7 +77,7 @@ I enjoy designing and developing intelligent web applications that combine clean
 ### Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,pycharm,anaconda" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda" />
 </p>
 
 ---
