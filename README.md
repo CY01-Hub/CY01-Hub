@@ -134,23 +134,31 @@ An intelligent study assistant that converts educational documents into structur
 
 <div align="center">
 
-# 🏆 Achievements & GitHub Stats
+# 🏆 Achievements & Stats
 
-### GitHub Contribution Overview
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CY01-Hub&theme=tokyonight&hide_border=true" alt="GitHub Contribution Overview" />
+### GitHub Streak Stats
+<a href="https://github.com/CY01-Hub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CY01-Hub&theme=dark&background=000000&hide_border=true" alt="GitHub Streak Stats" />
+</a>
+
+<br/><br/>
+
+### LeetCode Calendar & Stats
+<a href="https://leetcode.com/Dhrubo-dey">
+  <img src="https://leetcard.jacoblin.cool/Dhrubo-dey?theme=dark" alt="LeetCode Stats" />
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-# 📊 Contribution Graph
+# 📅 GitHub Contribution Calendar
 
-</div>
-
-<div align="center">
-
-[![Dhrubo's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CY01-Hub&theme=tokyo-night&hide_border=true)](https://github.com/CY01-Hub)
+<a href="https://github.com/CY01-Hub">
+  <img src="https://ghchart.rshah.org/40c463/CY01-Hub" alt="GitHub Contribution Calendar" />
+</a>
 
 </div>
 
