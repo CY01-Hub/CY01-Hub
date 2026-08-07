@@ -1,173 +1,238 @@
 <div align="center">
-  <img src="banner.png" alt="Dhrubo Dey Banner" width="100%" />
-</div>
-
-<!-- <div align="center">
-
-# Hi, I'm Dhrubo Dey 👋
-
-### Python Developer • AI Enthusiast • Backend Developer • Cybersecurity Learner
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Applications;Backend+Developer+using+Python+%26+Flask;Learning+Cybersecurity;Always+Building+Something+New" alt="Typing SVG" />
-
-</div> -->
-
----
-
-<div align="center">
-
-# 💫 About Me
-
-</div>
-
-I'm a Computer Science & Engineering student focused on backend software development, artificial intelligence, and cybersecurity.
-
-I enjoy designing and developing intelligent web applications that combine clean user experiences with reliable backend systems. My current work primarily involves building AI-powered platforms using Python and Flask while continuously strengthening my understanding of software engineering, databases, and computer science fundamentals.
-
----
-
-<div align="center">
-
-# 📫 Connect With Me
-
-</div>
 
 <p align="center">
-
-<a href="https://github.com/CY01-Hub">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/dhrubo-dey">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://cy01-hub.github.io/Portfolio/">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="48"/>
-</a>
-
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:111827,50:2563EB,100:7C3AED&text=Dhrubo%20Dey&fontColor=FFFFFF&fontSize=58&animation=fadeIn&stroke=FFFFFF" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Builder;Python+Backend+Developer;Building+Intelligent+Applications;Future+Cybersecurity+Professional" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-059669?style=for-the-badge"/>
+</p>
+
+<h3>
+Building practical AI solutions with clean backend architecture.
+</h3>
+
+</div>
 
 ---
 
-<div align="center">
+# 👨‍💻 About Me
+
+I'm **Dhrubo Dey**, a Computer Science & Engineering student passionate about building intelligent software powered by **Artificial Intelligence** and **Backend Engineering**.
+
+My work focuses on developing applications that solve real-world problems through automation, document intelligence, and AI-assisted workflows. I enjoy transforming ideas into reliable software using Python while continuously improving my understanding of software engineering, scalable architectures, and secure development practices.
+
+Currently, I'm exploring how **Artificial Intelligence**, **Backend Systems**, and **Cybersecurity** can work together to create smarter and more dependable applications.
+
+---
+
+# 🚀 Current Focus
+
+<table>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 🤖 AI Development
+
+Building intelligent applications using Large Language Models, document processing, and AI-powered automation.
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Backend Engineering
+
+Designing scalable backend systems with clean architecture, REST APIs, and efficient database management.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🔒 Cybersecurity
+
+Learning secure software development, networking fundamentals, and modern cybersecurity concepts.
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📌 Currently Working On
+
+```text
+🤖 AI-Powered Applications
+📄 Intelligent Document Processing
+⚙️ REST API Development
+🧠 Large Language Model Integration
+🔒 Secure Backend Systems
+📚 Continuous Learning
+```
+---
 
 # 💻 Tech Stack
 
-</div>
+<div align="center">
 
-### Languages
+### 👨‍💻 Programming Languages
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c" />
-</p>
 
-### Frontend
+### 🌐 Frontend Development
 
-<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
 
-### Backend & Database
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=flask,mysql,sqlite" />
-</p>
+### ⚙️ Backend Development
 
-### Tools
+<img src="https://skillicons.dev/icons?i=flask,fastapi" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,anaconda" />
-</p>
+### 🤖 Artificial Intelligence & Data
 
----
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
-<div align="center">
+### 🗄️ Databases
 
-# 🌟 Featured Projects
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+
+### 🛠️ Developer Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 
 </div>
 
-## 🩺 ClinixParse AI
+---
 
-An AI-powered healthcare platform that transforms complex medical reports into clear, easy-to-understand insights, helping users better understand their health information.
+# 🚀 Featured AI Projects
 
-### Features
+<details open>
+<summary><b>🩺 ClinixParse AI — Medical Intelligence Platform</b></summary>
 
-- Upload PDF/DOCX Medical Reports
-- AI-Powered Medical Report Analysis
-- Health Summary & Key Insights
-- Detection of Abnormal Test Values
-- Secure Medical History
-- User Authentication
+<br>
+
+An AI-powered healthcare platform that transforms complex medical reports into structured, patient-friendly insights.
+
+### ✨ Key Features
+
+- 📄 Upload PDF & DOCX medical reports
+- 🧠 AI-powered report interpretation
+- 🩸 Biomarker extraction & analysis
+- 🚨 Detection of abnormal test values
+- 📊 Simplified health summaries
+- 🔒 Secure report history
+
+### 🛠️ Tech Stack
+
+`Python` • `Flask` • `Gemini API` • `MySQL`
+
+</details>
+
+<br>
+
+<details>
+<summary><b>💼 PathForge AI — Career Strategy Platform</b></summary>
+
+<br>
+
+An intelligent career assistant that analyzes user profiles, identifies missing skills, generates learning roadmaps, and prepares candidates for interviews.
+
+### ✨ Key Features
+
+- 🎯 AI skill extraction
+- 📈 Skill gap analysis
+- 🛣️ Personalized learning roadmap
+- 💬 Interview question generation
+- 📑 Structured JSON outputs
+
+### 🛠️ Tech Stack
+
+`Python` • `Flask` • `Gemini API` • `MySQL`
+
+</details>
+
+<br>
+
+<details>
+<summary><b>📚 Synthetix AI — Automated Notes Engine</b></summary>
+
+<br>
+
+An AI-powered study assistant that transforms educational documents into structured learning resources.
+
+### ✨ Key Features
+
+- 📄 Smart document processing
+- 📝 AI-generated notes
+- 🃏 Flashcards
+- ❓ Practice questions
+- 📚 Exam revision sheets
+
+### 🛠️ Tech Stack
+
+`Python` • `Flask` • `Gemini API` • `MySQL`
+
+</details>
 
 ---
 
-## 💼 PathForge AI
-
-An AI-powered career development platform designed to help users build stronger resumes and improve job readiness through intelligent analysis and personalized recommendations.
-
-### Features
-
-- ATS Compatibility Analysis
-- Resume Review & Feedback
-- Missing Skills Identification
-- Job Description Matching
-- AI-Powered Career Suggestions
-
----
-
-## 📚 Synthetic AI
-
-An intelligent study assistant that converts educational documents into structured learning materials, making studying more efficient and interactive.
-
-### Features
-
-- Upload Study Materials
-- AI-Generated Smart Notes
-- Flashcards
-- Important Questions
-- AI Summaries
-- Organized Learning Dashboard
-
----
+## 📫 Connect With Me
 
 <div align="center">
 
-# 🏆 Achievements & Stats
-
-### GitHub Streak Stats
+### Git-Hub Profile
 <a href="https://github.com/CY01-Hub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CY01-Hub&theme=dark&background=000000&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<br/><br/>
-
-### LeetCode Calendar & Stats
-<a href="https://leetcode.com/Dhrubo-dey">
-  <img src="https://leetcard.jacoblin.cool/Dhrubo-dey?theme=dark" alt="LeetCode Stats" />
+### LinkedIn Profile
+<a href="https://www.linkedin.com/in/dhrubo-dey">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-</div>
+### Premium Portfolio
+<a href="https://cy01-hub.github.io/Portfolio/">
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" alt="Portfolio"/>
+</a>
 
----
-
-<div align="center">
-
-# 📅 GitHub Contribution Calendar
-
-<a href="https://github.com/CY01-Hub">
-  <img src="https://ghchart.rshah.org/40c463/CY01-Hub" alt="GitHub Contribution Calendar" />
+### Leetcode Profile
+<a href="https://leetcode.com/u/Dhrubo-Dey/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55" alt="LeetCode"/>
 </a>
 
 </div>
 
 ---
 
+# 👀 Profile Views
+
 <div align="center">
 
-### "Building intelligent software through continuous learning."
+<img src="https://komarev.com/ghpvc/?username=CY01-Hub&label=Profile%20Views&style=for-the-badge&color=2563EB"/>
 
-Thanks for visiting my profile.
+</div>
+
+---
+
+# ⚡ Thanks for Stopping By!
+
+<div align="center">
+
+<h3>🚀 Let's build something amazing together.</h3>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer"/>
 
 </div>
