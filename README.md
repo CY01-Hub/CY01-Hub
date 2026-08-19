@@ -23,7 +23,7 @@ Building practical AI solutions with clean backend architecture.
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 About Me :-
 
 I'm **Dhrubo Dey**, a Computer Science & Engineering student passionate about building intelligent software powered by **Artificial Intelligence** and **Backend Engineering**.
 
@@ -33,7 +33,7 @@ Currently, I'm exploring how **Artificial Intelligence**, **Backend Systems**, a
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Current Focus :-
 
 <table>
 
@@ -41,7 +41,7 @@ Currently, I'm exploring how **Artificial Intelligence**, **Backend Systems**, a
 
 <td align="center" width="33%">
 
-### 🤖 AI Development
+### 🤖 AI Development :
 
 Building intelligent applications using Large Language Models, document processing, and AI-powered automation.
 
@@ -49,7 +49,7 @@ Building intelligent applications using Large Language Models, document processi
 
 <td align="center" width="33%">
 
-### ⚙️ Backend Engineering
+### ⚙️ Backend Engineering :
 
 Designing scalable backend systems with clean architecture, REST APIs, and efficient database management.
 
@@ -57,7 +57,7 @@ Designing scalable backend systems with clean architecture, REST APIs, and effic
 
 <td align="center" width="33%">
 
-### 🔒 Cybersecurity
+### 🔒 Cybersecurity :
 
 Learning secure software development, networking fundamentals, and modern cybersecurity concepts.
 
@@ -69,7 +69,7 @@ Learning secure software development, networking fundamentals, and modern cybers
 
 ---
 
-# 📌 Currently Working On
+# 📌 Currently Working On :-
 
 ```text
 🤖 AI-Powered Applications
@@ -81,33 +81,31 @@ Learning secure software development, networking fundamentals, and modern cybers
 ```
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Stack :-
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages :
 
 <img src="https://skillicons.dev/icons?i=python,java,c" />
 
-### 🌐 Frontend Development
+### 🌐 Frontend Development :
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-
-### ⚙️ Backend Development
+### ⚙️ Backend Development :
 
 <img src="https://skillicons.dev/icons?i=flask,fastapi" />
 
-### 🤖 Artificial Intelligence & Data
+### 🤖 Artificial Intelligence & Data :
 
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
-### 🗄️ Databases
+### 🗄️ Databases :
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
-
-### 🛠️ Developer Tools
+### 🛠️ Developer Tools :
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 
@@ -115,7 +113,7 @@ Learning secure software development, networking fundamentals, and modern cybers
 
 ---
 
-# 🚀 Featured AI Projects
+# 🚀 Featured AI Projects :-
 
 <details open>
 <summary><b>🩺 ClinixParse AI — Medical Intelligence Platform</b></summary>
@@ -124,7 +122,7 @@ Learning secure software development, networking fundamentals, and modern cybers
 
 An AI-powered healthcare platform that transforms complex medical reports into structured, patient-friendly insights.
 
-### ✨ Key Features
+### ✨ Key Features :
 
 - 📄 Upload PDF & DOCX medical reports
 - 🧠 AI-powered report interpretation
@@ -133,7 +131,7 @@ An AI-powered healthcare platform that transforms complex medical reports into s
 - 📊 Simplified health summaries
 - 🔒 Secure report history
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack :
 
 `Python` • `Flask` • `Gemini API` • `MySQL`
 
@@ -148,7 +146,7 @@ An AI-powered healthcare platform that transforms complex medical reports into s
 
 An intelligent career assistant that analyzes user profiles, identifies missing skills, generates learning roadmaps, and prepares candidates for interviews.
 
-### ✨ Key Features
+### ✨ Key Features :
 
 - 🎯 AI skill extraction
 - 📈 Skill gap analysis
@@ -156,7 +154,7 @@ An intelligent career assistant that analyzes user profiles, identifies missing 
 - 💬 Interview question generation
 - 📑 Structured JSON outputs
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack :
 
 `Python` • `Flask` • `Gemini API` • `MySQL`
 
@@ -171,7 +169,7 @@ An intelligent career assistant that analyzes user profiles, identifies missing 
 
 An AI-powered study assistant that transforms educational documents into structured learning resources.
 
-### ✨ Key Features
+### ✨ Key Features :
 
 - 📄 Smart document processing
 - 📝 AI-generated notes
@@ -179,7 +177,7 @@ An AI-powered study assistant that transforms educational documents into structu
 - ❓ Practice questions
 - 📚 Exam revision sheets
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack :
 
 `Python` • `Flask` • `Gemini API` • `MySQL`
 
@@ -187,26 +185,26 @@ An AI-powered study assistant that transforms educational documents into structu
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect With Me :-
 
 <div align="center">
 
-### Git-Hub Profile
+### Git-Hub Profile :
 <a href="https://github.com/CY01-Hub">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-### LinkedIn Profile
+### LinkedIn Profile :
 <a href="https://www.linkedin.com/in/dhrubo-dey">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-### Premium Portfolio
+### Premium Portfolio :
 <a href="https://cy01-hub.github.io/Portfolio/">
   <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" alt="Portfolio"/>
 </a>
 
-### Leetcode Profile
+### Leetcode Profile :
 <a href="https://leetcode.com/u/Dhrubo-Dey/" target="_blank">
   <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55" alt="LeetCode"/>
 </a>
@@ -215,7 +213,7 @@ An AI-powered study assistant that transforms educational documents into structu
 
 ---
 
-# 👀 Profile Views
+# 👀 Profile Views :-
 
 <div align="center">
 
