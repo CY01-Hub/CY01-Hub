@@ -223,7 +223,7 @@ An AI-powered study assistant that transforms educational documents into structu
 
 ---
 
-# ⚡ Thanks for Stopping By!
+# ⚡ Thanks for Stopping By !
 
 <div align="center">
 
