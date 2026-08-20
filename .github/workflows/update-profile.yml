@@ -1,1 +1,61 @@
+name: Update CY01-Hub Profile Dashboard
 
+on:
+
+  workflow_dispatch:
+
+  schedule:
+    - cron: "17 2 * * *"
+
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: write
+
+jobs:
+
+  update-profile:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub dashboard
+        env:
+          GITHUB_USERNAME: CY01-Hub
+          PROFILE_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+
+        run: |
+
+          python3 scripts/generate_github_status.py
+
+      - name: Commit generated dashboard
+        run: |
+
+          git config user.name "github-actions[bot]"
+
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add \
+            assets/github-status.svg \
+            assets/contribution-calendar.svg
+
+          if git diff --cached --quiet; then
+
+            echo "No dashboard changes."
+
+            exit 0
+
+          fi
+
+          git commit \
+            -m "chore: update GitHub profile dashboard"
+
+          git push
