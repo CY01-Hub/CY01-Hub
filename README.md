@@ -1,39 +1,455 @@
 <div align="center">
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:111827,50:2563EB,100:7C3AED&text=Dhrubo%20Dey&fontColor=FFFFFF&fontSize=58&animation=fadeIn&stroke=FFFFFF" />
-</p>
+<!--                         CY01-HUB PROFILE README                         -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=AI+Builder;Python+Backend+Developer;Building+Intelligent+Applications;Future+Cybersecurity+Professional" />
-</p>
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cybersecurity-059669?style=for-the-badge"/>
-</p>
+<div align="center">
 
-<h3>
-Building practical AI solutions with clean backend architecture.
-</h3>
+<a href="https://github.com/CY01-Hub">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:050B14,45:172554,75:2563EB,100:7C3AED&text=CY01-Hub&fontColor=FFFFFF&fontSize=64&fontFamily=JetBrains%20Mono&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%"/>
+
+</a>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Systems+%C3%97+Backend+Engineering+%C3%97+Cybersecurity;Python+Backend+Developer;Building+Intelligent+Applications;Engineering+Reliable+Software;Learning+to+Build+%26+Secure+Systems" alt="Typing SVG"/>
+
+<br><br>
+
+<a href="https://github.com/CY01-Hub">
+<img src="https://img.shields.io/badge/GITHUB-CY01--HUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://cy01-hub.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dhrubo-dey/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=CY01-Hub&label=PROFILE%20VIEWS&color=2563EB&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me :-
+# 👨‍💻 About Me
 
-I'm **Dhrubo Dey**, a Computer Science & Engineering student passionate about building intelligent software powered by **Artificial Intelligence** and **Backend Engineering**.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-My work focuses on developing applications that solve real-world problems through automation, document intelligence, and AI-assisted workflows. I enjoy transforming ideas into reliable software using Python while continuously improving my understanding of software engineering, scalable architectures, and secure development practices.
+### `whoami`
 
-Currently, I'm exploring how **Artificial Intelligence**, **Backend Systems**, and **Cybersecurity** can work together to create smarter and more dependable applications.
+I'm **Dhrubo Dey**, a Computer Science & Engineering student focused on building practical software through **Python, Backend Engineering, Artificial Intelligence, and structured problem solving**.
+
+I enjoy turning ideas into working systems — from AI-powered document processing to backend APIs and data-driven applications.
+
+My long-term direction is **Cybersecurity**, with a focus on understanding how software, systems, networks, and security intersect.
+
+</td>
+
+<td width="42%" valign="top">
+
+```yaml
+identity:
+  codename: CY01-Hub
+  domain: Software Engineering
+
+primary:
+  - Python
+  - Backend
+  - AI Systems
+
+learning:
+  - DSA
+  - Linux
+  - Networking
+  - Cybersecurity
+
+architecture:
+  - REST APIs
+  - Databases
+  - AI Pipelines
+  - Structured Data
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Current Focus :-
+# 🎯 Current Focus
+
+<table>
+<tr>
+<th>AREA</th>
+<th>STATUS</th>
+<th>FOCUS</th>
+</tr>
+
+<tr>
+<td>🤖 <b>AI Engineering</b></td>
+<td>🟢 ACTIVE</td>
+<td>LLM APIs • Document Intelligence • Automation</td>
+</tr>
+
+<tr>
+<td>⚙️ <b>Backend Engineering</b></td>
+<td>🟢 ACTIVE</td>
+<td>Flask • REST APIs • SQLAlchemy • MySQL</td>
+</tr>
+
+<tr>
+<td>🧠 <b>DSA</b></td>
+<td>🟢 ACTIVE</td>
+<td>C • Python • Problem Solving • Algorithms</td>
+</tr>
+
+<tr>
+<td>🔐 <b>Cybersecurity</b></td>
+<td>🟡 LEARNING</td>
+<td>Security Fundamentals • Secure Development</td>
+</tr>
+
+<tr>
+<td>🐧 <b>Linux & Networking</b></td>
+<td>🟡 EXPLORING</td>
+<td>System Fundamentals • CLI • Networking Basics</td>
+</tr>
+
+</table>
+
+---
+
+# 🧭 Engineering Direction
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+<h2>01</h2>
+🤖<br>
+<b>AI</b>
+<br><sub>Intelligent Systems</sub>
+</td>
+
+<td align="center" width="20%">
+<h2>02</h2>
+⚙️<br>
+<b>BACKEND</b>
+<br><sub>Reliable APIs</sub>
+</td>
+
+<td align="center" width="20%">
+<h2>03</h2>
+🧠<br>
+<b>DSA</b>
+<br><sub>Problem Solving</sub>
+</td>
+
+<td align="center" width="20%">
+<h2>04</h2>
+🐧<br>
+<b>SYSTEMS</b>
+<br><sub>Linux & Networking</sub>
+</td>
+
+<td align="center" width="20%">
+<h2>05</h2>
+🔐<br>
+<b>SECURITY</b>
+<br><sub>Secure Software</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧰 Technology Stack
+
+<div align="center">
+
+### 👨‍💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,c,java" />
+
+<br><br>
+
+### 🌐 Web Technologies
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=flask" />
+
+<br>
+
+`REST APIs` • `SQLAlchemy ORM` • `JSON` • `LLM APIs`
+
+<br><br>
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<br>
+
+`Relational Database Design` • `CRUD` • `Data Persistence`
+
+<br><br>
+
+### 🔧 Development Tools
+
+<img src="https://skillicons.dev/icons?i=github,vscode,postman" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🩺 ClinixParse AI</h2>
+
+<h4>Medical Report Intelligence Platform</h4>
+
+<p>
+Transforms unstructured diagnostic reports into structured,
+machine-readable medical data.
+</p>
+
+<table>
+<tr><td>📄</td><td>Medical Report Processing</td></tr>
+<tr><td>🧠</td><td>AI Data Extraction</td></tr>
+<tr><td>🩸</td><td>Laboratory Metrics</td></tr>
+<tr><td>📊</td><td>Structured JSON Output</td></tr>
+<tr><td>🔒</td><td>Privacy-Conscious Architecture</td></tr>
+</table>
+
+<br>
+
+`Python` `Flask` `MySQL` `SQLAlchemy` `LLM APIs`
+
+<br><br>
+
+<a href="https://github.com/CY01-Hub">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🛣️ PathForge AI</h2>
+
+<h4>Career Strategy Platform</h4>
+
+<p>
+Analyzes candidate information and generates skill-gap,
+career roadmap, and interview intelligence.
+</p>
+
+<table>
+<tr><td>🎯</td><td>Candidate Evaluation</td></tr>
+<tr><td>🧠</td><td>Skill Extraction</td></tr>
+<tr><td>📈</td><td>Skill Gap Analysis</td></tr>
+<tr><td>🛣️</td><td>Learning Roadmaps</td></tr>
+<tr><td>💬</td><td>Interview Intelligence</td></tr>
+</table>
+
+<br>
+
+`Python` `Flask` `MySQL` `SQLAlchemy` `LLM APIs`
+
+<br><br>
+
+<a href="https://github.com/CY01-Hub">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>📚 Synthetix AI</h2>
+
+<h4>Automated Notes Engine</h4>
+
+<p>
+Transforms raw educational documents into structured
+learning resources.
+</p>
+
+<table>
+<tr><td>📄</td><td>Document Processing</td></tr>
+<tr><td>📝</td><td>AI Notes Generation</td></tr>
+<tr><td>🃏</td><td>Flashcards</td></tr>
+<tr><td>❓</td><td>Practice Questions</td></tr>
+<tr><td>📊</td><td>Learning Analytics</td></tr>
+</table>
+
+<br>
+
+`Python` `Flask` `MySQL` `LLM APIs`
+
+<br><br>
+
+<a href="https://github.com/CY01-Hub">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🧠 ResuMate AI</h2>
+
+<h4>Intelligent Resume & ATS Platform</h4>
+
+<p>
+AI-assisted resume analysis and ATS optimization platform
+focused on structured candidate data.
+</p>
+
+<table>
+<tr><td>📄</td><td>Resume Processing</td></tr>
+<tr><td>🎯</td><td>ATS Analysis</td></tr>
+<tr><td>🧠</td><td>AI Recommendations</td></tr>
+<tr><td>📊</td><td>Structured Evaluation</td></tr>
+<tr><td>⚙️</td><td>Backend Processing</td></tr>
+</table>
+
+<br>
+
+`Python` `Flask` `MySQL` `SQLAlchemy`
+
+<br><br>
+
+<a href="https://github.com/CY01-Hub">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧠 Problem Solving
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### DSA Progress
+
+| Topic                  | Status        |
+| ---------------------- | ------------- |
+| 🌳 Binary Trees        | 🟢 Practicing |
+| 🔁 Recursion           | 🟢 Practicing |
+| 🔎 Searching           | 🟢 Practicing |
+| 🔃 Sorting             | 🟢 Practicing |
+| 🔗 Linked Lists        | 🟡 Improving  |
+| 📚 Stacks & Queues     | 🟡 Improving  |
+| 🕸️ Graphs             | 🔴 Upcoming   |
+| 🧮 Dynamic Programming | 🔴 Upcoming   |
+
+</td>
+
+<td width="40%" valign="middle" align="center">
+
+### 💡 Philosophy
+
+<br>
+
+```text
+Understand
+    ↓
+Solve
+    ↓
+Optimize
+    ↓
+Repeat
+```
+
+<br>
+
+**Patterns > Memorization**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Status
+
+<div align="center">
+
+<a href="https://github.com/CY01-Hub">
+
+<img src="https://github-readme-stats.vercel.app/api?username=CY01-Hub&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/CY01-Hub">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CY01-Hub&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages"/>
+
+</a>
+
+</div>
+
+---
+
+# 🔥 Contribution Activity
+
+<div align="center">
+
+### `CONTRIBUTION MATRIX`
+
+<br>
+
+<img src="https://ghchart.rshah.org/2563EB/CY01-Hub" alt="CY01-Hub Contribution Calendar" width="95%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CY01-Hub&theme=tokyo-night&hide_border=true&area=true&custom_title=CY01-Hub%20Contribution%20Activity" width="95%"/>
+
+</div>
+
+---
+
+# 🏆 Certifications
+
+<div align="center">
 
 <table>
 
@@ -41,25 +457,49 @@ Currently, I'm exploring how **Artificial Intelligence**, **Backend Systems**, a
 
 <td align="center" width="33%">
 
-### 🤖 AI Development :
+<h2>🧠</h2>
 
-Building intelligent applications using Large Language Models, document processing, and AI-powered automation.
+<b>Data Structures & Algorithms</b>
+
+<br><br>
+
+NPTEL • IIT Kanpur
+
+<br>
+
+<b>77%</b>
 
 </td>
 
 <td align="center" width="33%">
 
-### ⚙️ Backend Engineering :
+<h2>💻</h2>
 
-Designing scalable backend systems with clean architecture, REST APIs, and efficient database management.
+<b>Programming in C</b>
+
+<br><br>
+
+NPTEL • IIT Kharagpur
+
+<br>
+
+<b>56%</b>
 
 </td>
 
 <td align="center" width="33%">
 
-### 🔒 Cybersecurity :
+<h2>☕</h2>
 
-Learning secure software development, networking fundamentals, and modern cybersecurity concepts.
+<b>Programming in Java</b>
+
+<br><br>
+
+NPTEL • IIT Kharagpur
+
+<br>
+
+<b>Jan–Apr 2026</b>
 
 </td>
 
@@ -67,170 +507,183 @@ Learning secure software development, networking fundamentals, and modern cybers
 
 </table>
 
+</div>
+
+</div>
+
 ---
 
-# 📌 Currently Working On :-
+# 🖥️ Terminal
 
 ```text
-🤖 AI-Powered Applications
-📄 Intelligent Document Processing
-⚙️ REST API Development
-🧠 Large Language Model Integration
-🔒 Secure Backend Systems
-📚 Continuous Learning
+┌──[CY01-Hub@github]──[~/workspace]
+│
+├── $ whoami
+│   └── Computer Science Student
+│
+├── $ focus
+│   ├── Python
+│   ├── Backend Engineering
+│   ├── Artificial Intelligence
+│   ├── Data Structures
+│   └── Cybersecurity
+│
+├── $ build
+│   ├── AI Applications
+│   ├── REST APIs
+│   ├── Data Pipelines
+│   └── Intelligent Systems
+│
+└── $ mission
+    └── Build → Understand → Secure → Improve
 ```
----
 
-# 💻 Tech Stack :-
+---
 
 <div align="center">
 
-### 👨‍💻 Programming Languages :
+# 🧩 Engineering Workflow
 
-<img src="https://skillicons.dev/icons?i=python,java,c" />
+<div align="center">
 
-### 🌐 Frontend Development :
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<td align="center">
+<h3>01</h3>
+🔍<br>
+<b>Understand</b>
+<br>
+<sub>Problem & Requirements</sub>
+</td>
 
-### ⚙️ Backend Development :
+<td align="center">→</td>
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi" />
+<td align="center">
+<h3>02</h3>
+🏗️<br>
+<b>Design</b>
+<br>
+<sub>Architecture & Data</sub>
+</td>
 
-### 🤖 Artificial Intelligence & Data :
+<td align="center">→</td>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+<td align="center">
+<h3>03</h3>
+⚙️<br>
+<b>Build</b>
+<br>
+<sub>Implementation</sub>
+</td>
 
-### 🗄️ Databases :
+<td align="center">→</td>
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<td align="center">
+<h3>04</h3>
+🧪<br>
+<b>Validate</b>
+<br>
+<sub>Testing & Logic</sub>
+</td>
 
-### 🛠️ Developer Tools :
+<td align="center">→</td>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
+<td align="center">
+<h3>05</h3>
+🔐<br>
+<b>Secure</b>
+<br>
+<sub>Improve & Protect</sub>
+</td>
+
+</tr>
+</table>
 
 </div>
 
 ---
 
-# 🚀 Featured AI Projects :-
+# 📌 Current Mission
 
-<details open>
-<summary><b>🩺 ClinixParse AI — Medical Intelligence Platform</b></summary>
+<table align="center">
 
-<br>
+<tr>
+<td align="center">🐍<br><b>Python</b><br><sub>Advanced</sub></td>
+<td align="center">🧠<br><b>DSA</b><br><sub>Active</sub></td>
+<td align="center">⚙️<br><b>Backend</b><br><sub>Building</sub></td>
+<td align="center">🤖<br><b>AI</b><br><sub>Building</sub></td>
+<td align="center">🔐<br><b>Security</b><br><sub>Exploring</sub></td>
+</tr>
 
-An AI-powered healthcare platform that transforms complex medical reports into structured, patient-friendly insights.
-
-### ✨ Key Features :
-
-- 📄 Upload PDF & DOCX medical reports
-- 🧠 AI-powered report interpretation
-- 🩸 Biomarker extraction & analysis
-- 🚨 Detection of abnormal test values
-- 📊 Simplified health summaries
-- 🔒 Secure report history
-
-### 🛠️ Tech Stack :
-
-`Python` • `Flask` • `Gemini API` • `MySQL`
-
-</details>
-
-<br>
-
-<details>
-<summary><b>💼 PathForge AI — Career Strategy Platform</b></summary>
-
-<br>
-
-An intelligent career assistant that analyzes user profiles, identifies missing skills, generates learning roadmaps, and prepares candidates for interviews.
-
-### ✨ Key Features :
-
-- 🎯 AI skill extraction
-- 📈 Skill gap analysis
-- 🛣️ Personalized learning roadmap
-- 💬 Interview question generation
-- 📑 Structured JSON outputs
-
-### 🛠️ Tech Stack :
-
-`Python` • `Flask` • `Gemini API` • `MySQL`
-
-</details>
-
-<br>
-
-<details>
-<summary><b>📚 Synthetix AI — Automated Notes Engine</b></summary>
-
-<br>
-
-An AI-powered study assistant that transforms educational documents into structured learning resources.
-
-### ✨ Key Features :
-
-- 📄 Smart document processing
-- 📝 AI-generated notes
-- 🃏 Flashcards
-- ❓ Practice questions
-- 📚 Exam revision sheets
-
-### 🛠️ Tech Stack :
-
-`Python` • `Flask` • `Gemini API` • `MySQL`
-
-</details>
+</table>
 
 ---
 
-## 📫 Connect With Me :-
+# 📫 Connect With Me
 
 <div align="center">
 
-### Git-Hub Profile :
 <a href="https://github.com/CY01-Hub">
-  <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" width="52"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-### LinkedIn Profile :
 <a href="https://www.linkedin.com/in/dhrubo-dey">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
 </a>
+&nbsp;&nbsp;&nbsp;
 
-### Premium Portfolio :
 <a href="https://cy01-hub.github.io/Portfolio/">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" alt="Portfolio"/>
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="52"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/Dhrubo-Dey/">
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="52"/>
 </a>
 
-### Leetcode Profile :
-<a href="https://leetcode.com/u/Dhrubo-Dey/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55" alt="LeetCode"/>
+<br><br>
+
+<a href="https://github.com/CY01-Hub">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-111827?style=for-the-badge&logo=github&logoColor=38BDF8"/>
+</a>
+
+<a href="https://cy01-hub.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/View%20My%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 👀 Profile Views :-
+# ⚡ `CY01-HUB // SYSTEM STATUS`
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=CY01-Hub&label=Profile%20Views&style=for-the-badge&color=2563EB"/>
-
-</div>
-
----
-
-# ⚡ Thanks for Stopping By !
-
-<div align="center">
-
-<h3>🚀 Let's build something amazing together.</h3>
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│   BUILD SYSTEMS.                              │
+│   UNDERSTAND SYSTEMS.                         │
+│   SOLVE HARD PROBLEMS.                        │
+│   SECURE WHAT YOU BUILD.                      │
+│                                               │
+│   STATUS :: BUILDING...                       │
+│                                               │
+└───────────────────────────────────────────────┘
+```
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0EA5E9&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+### `CY01-Hub`
+
+**AI × Backend × Systems × Security**
+
+<sub>© 2026 CY01-Hub • Built with Python, curiosity & caffeine.</sub>
+
+</div>
 
 </div>
