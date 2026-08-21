@@ -130,7 +130,7 @@ stroke="#1E293B"
 />
 
 <text x="748" y="140" fill="#94A3B8" font-family="Arial, sans-serif" font-size="11px" font-weight="700" text-anchor="start">FOLLOWERS</text>
-<text x="748" y="183" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="30px" font-weight="700" text-anchor="start">3</text>
+<text x="748" y="183" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="30px" font-weight="700" text-anchor="start">4</text>
 
 <rect
 x="960"
@@ -160,13 +160,13 @@ fill="#111C2E"
 <rect
 x="190"
 y="300"
-width="233.28"
+width="234.72000000000003"
 height="18"
 rx="9"
 fill="#38BDF8"
 />
 
-<text x="930" y="315" fill="#94A3B8" font-family="Arial, sans-serif" font-size="13px" font-weight="600" text-anchor="start">32.4%</text>
+<text x="930" y="315" fill="#94A3B8" font-family="Arial, sans-serif" font-size="13px" font-weight="600" text-anchor="start">32.6%</text>
 <text x="50" y="353" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="13px" font-weight="600" text-anchor="start">HTML</text>
 
 <rect
@@ -182,13 +182,13 @@ fill="#111C2E"
 <rect
 x="190"
 y="338"
-width="177.12"
+width="182.88"
 height="18"
 rx="9"
 fill="#818CF8"
 />
 
-<text x="930" y="353" fill="#94A3B8" font-family="Arial, sans-serif" font-size="13px" font-weight="600" text-anchor="start">24.6%</text>
+<text x="930" y="353" fill="#94A3B8" font-family="Arial, sans-serif" font-size="13px" font-weight="600" text-anchor="start">25.4%</text>
 <text x="50" y="391" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="13px" font-weight="600" text-anchor="start">CSS</text>
 
 <rect
@@ -204,13 +204,13 @@ fill="#111C2E"
 <rect
 x="190"
 y="376"
-width="155.52"
+width="151.92000000000002"
 height="18"
 rx="9"
 fill="#A78BFA"
 />
 
-<text x="930" y="391" fill="#94A3B8" font-family="Arial, sans-serif" font-size="13px" font-weight="600" text-anchor="start">21.6%</text>
+<text x="930" y="391" fill="#94A3B8" font-family="Arial, sans-serif" font-size="13px" font-weight="600" text-anchor="start">21.1%</text>
 <text x="50" y="429" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="13px" font-weight="600" text-anchor="start">JavaScript</text>
 
 <rect
@@ -226,13 +226,13 @@ fill="#111C2E"
 <rect
 x="190"
 y="414"
-width="154.07999999999998"
+width="150.48"
 height="18"
 rx="9"
 fill="#22C55E"
 />
 
-<text x="930" y="429" fill="#94A3B8" font-family="Arial, sans-serif" font-size="13px" font-weight="600" text-anchor="start">21.4%</text>
+<text x="930" y="429" fill="#94A3B8" font-family="Arial, sans-serif" font-size="13px" font-weight="600" text-anchor="start">20.9%</text>
 
 <rect
 x="40"
@@ -242,5 +242,5 @@ height="1"
 fill="url(#accent)"
 />
 
-<text x="48" y="545" fill="#94A3B8" font-family="Arial, sans-serif" font-size="11px" font-weight="600" text-anchor="start">LAST UPDATED // 20 Aug 2026 06:01 UTC</text>
+<text x="48" y="545" fill="#94A3B8" font-family="Arial, sans-serif" font-size="11px" font-weight="600" text-anchor="start">LAST UPDATED // 21 Aug 2026 03:14 UTC</text>
 </svg>
