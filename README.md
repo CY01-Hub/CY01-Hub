@@ -34,7 +34,7 @@
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 About Me :-
 
 <table>
 <tr>
@@ -90,7 +90,7 @@ architecture:
 
 ---
 
-# ⚡ Technical Focus
+# ⚡ Technical Focus :-
 
 <div align="center">
 
@@ -132,35 +132,35 @@ architecture:
 
 ---
 
-# 🛠️ Technology Stack
+# 🛠️ Technology Stack :-
 
 <div align="center">
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages -
 
 <img src="https://skillicons.dev/icons?i=python,c,java" />
 
 <br><br>
 
-### ⚙️ Backend & APIs
+### ⚙️ Backend & APIs -
 
 <img src="https://skillicons.dev/icons?i=flask,fastapi" />
 
 <br><br>
 
-### 🗄️ Databases
+### 🗄️ Databases -
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
 <br><br>
 
-### 🌐 Web Technologies
+### 🌐 Web Technologies -
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
 <br><br>
 
-### 🐧 Systems & Development Tools
+### 🐧 Systems & Development Tools -
 
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,postman" />
 
@@ -168,7 +168,7 @@ architecture:
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects :-
 
 <table>
 <tr>
@@ -326,7 +326,7 @@ AI-assisted resume analysis platform focused on structured candidate data, ATS o
 
 ---
 
-# 📈 Activity & Analytics
+# 📈 Activity & Analytics :-
 
 <div align="center">
 
@@ -342,13 +342,11 @@ AI-assisted resume analysis platform focused on structured candidate data, ATS o
 
 <br>
 
-<sub>📈 Automatically refreshed by the profile dashboard workflow</sub>
-
 </div>
 
 ---
 
-# 🧠 Problem Solving
+# 🧠 Problem Solving :-
 
 <div align="center">
 
@@ -363,7 +361,7 @@ AI-assisted resume analysis platform focused on structured candidate data, ATS o
 
 <td width="55%" valign="top">
 
-### 🧩 DSA Roadmap
+### 🧩 DSA Roadmap -
 
 <table>
 <tr>
@@ -417,7 +415,7 @@ AI-assisted resume analysis platform focused on structured candidate data, ATS o
 
 <td width="45%" align="center" valign="top">
 
-### 🧠 Problem Solving Mindset
+### 🧠 Problem Solving Mindset -
 
 <br>
 
@@ -459,7 +457,7 @@ correct, readable and efficient.
 
 ---
 
-# 🎯 Current Learning
+# 🎯 Current Learning :-
 
 <div align="center">
 
@@ -501,7 +499,7 @@ correct, readable and efficient.
 
 ---
 
-# 🏆 Certifications
+# 🏆 Certifications :-
 
 <div align="center">
 
@@ -567,7 +565,7 @@ NPTEL • IIT Kharagpur
 
 ---
 
-# 🖥️ System Terminal
+# 🖥️ System Terminal :-
 
 ```bash
 ┌──[CY01-Hub@github]──[~/workspace]
@@ -605,7 +603,7 @@ NPTEL • IIT Kharagpur
 
 ---
 
-# 🤝 Let's Connect
+# 🤝 Let's Connect :-
 
 <div align="center">
 
