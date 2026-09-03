@@ -332,10 +332,6 @@ AI-assisted resume analysis platform focused on structured candidate data, ATS o
 
 <img src="./assets/github-status.svg" width="100%" alt="GitHub Status"/>
 
-<br>
-
-<sub>⚡ Automatically generated and updated through GitHub Actions</sub>
-
 <br><br>
 
 <img src="./assets/contribution-calendar.svg" width="100%" alt="Contribution Calendar"/>
