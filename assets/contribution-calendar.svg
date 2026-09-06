@@ -2946,7 +2946,7 @@ y="213"
 width="14"
 height="14"
 rx="3"
-fill="#111C2E"
+fill="#164E63"
 />
 
 
@@ -3006,7 +3006,7 @@ y="195"
 width="14"
 height="14"
 rx="3"
-fill="#111C2E"
+fill="#164E63"
 />
 
 
@@ -3016,7 +3016,7 @@ y="213"
 width="14"
 height="14"
 rx="3"
-fill="#164E63"
+fill="#111C2E"
 />
 
 
@@ -3096,7 +3096,7 @@ y="105"
 width="14"
 height="14"
 rx="3"
-fill="#111C2E"
+fill="#164E63"
 />
 
 
@@ -3106,7 +3106,7 @@ y="123"
 width="14"
 height="14"
 rx="3"
-fill="#111C2E"
+fill="#164E63"
 />
 
 
@@ -3146,7 +3146,7 @@ y="195"
 width="14"
 height="14"
 rx="3"
-fill="#164E63"
+fill="#111C2E"
 />
 
 
@@ -3166,7 +3166,7 @@ y="105"
 width="14"
 height="14"
 rx="3"
-fill="#164E63"
+fill="#111C2E"
 />
 
 
@@ -3176,7 +3176,7 @@ y="123"
 width="14"
 height="14"
 rx="3"
-fill="#164E63"
+fill="#111C2E"
 />
 
 
@@ -3246,7 +3246,7 @@ y="123"
 width="14"
 height="14"
 rx="3"
-fill="#111C2E"
+fill="#0E7490"
 />
 
 
@@ -3256,7 +3256,7 @@ y="141"
 width="14"
 height="14"
 rx="3"
-fill="#111C2E"
+fill="#164E63"
 />
 
 
@@ -3266,7 +3266,7 @@ y="159"
 width="14"
 height="14"
 rx="3"
-fill="#111C2E"
+fill="#164E63"
 />
 
 
@@ -3276,7 +3276,7 @@ y="177"
 width="14"
 height="14"
 rx="3"
-fill="#111C2E"
+fill="#164E63"
 />
 
 
@@ -3296,7 +3296,7 @@ y="213"
 width="14"
 height="14"
 rx="3"
-fill="#111C2E"
+fill="#164E63"
 />
 
 
@@ -3306,7 +3306,7 @@ y="105"
 width="14"
 height="14"
 rx="3"
-fill="#111C2E"
+fill="#164E63"
 />
 
 
@@ -3376,7 +3376,7 @@ y="105"
 width="14"
 height="14"
 rx="3"
-fill="#164E63"
+fill="#111C2E"
 />
 
 
@@ -3386,7 +3386,7 @@ y="123"
 width="14"
 height="14"
 rx="3"
-fill="#0E7490"
+fill="#111C2E"
 />
 
 
@@ -3396,7 +3396,7 @@ y="141"
 width="14"
 height="14"
 rx="3"
-fill="#164E63"
+fill="#111C2E"
 />
 
 
@@ -3406,7 +3406,7 @@ y="159"
 width="14"
 height="14"
 rx="3"
-fill="#164E63"
+fill="#111C2E"
 />
 
 
@@ -3426,7 +3426,7 @@ y="195"
 width="14"
 height="14"
 rx="3"
-fill="#111C2E"
+fill="#164E63"
 />
 
 
@@ -3436,7 +3436,7 @@ y="213"
 width="14"
 height="14"
 rx="3"
-fill="#164E63"
+fill="#111C2E"
 />
 
 
@@ -3472,76 +3472,6 @@ fill="#111C2E"
 
 <rect
 x="912"
-y="159"
-width="14"
-height="14"
-rx="3"
-fill="#111C2E"
-/>
-
-
-<rect
-x="912"
-y="177"
-width="14"
-height="14"
-rx="3"
-fill="#164E63"
-/>
-
-
-<rect
-x="912"
-y="195"
-width="14"
-height="14"
-rx="3"
-fill="#164E63"
-/>
-
-
-<rect
-x="912"
-y="213"
-width="14"
-height="14"
-rx="3"
-fill="#111C2E"
-/>
-
-
-<rect
-x="930"
-y="105"
-width="14"
-height="14"
-rx="3"
-fill="#111C2E"
-/>
-
-
-<rect
-x="930"
-y="123"
-width="14"
-height="14"
-rx="3"
-fill="#111C2E"
-/>
-
-
-<rect
-x="930"
-y="141"
-width="14"
-height="14"
-rx="3"
-fill="#111C2E"
-/>
-
-
-<rect
-x="930"
 y="159"
 width="14"
 height="14"
@@ -3551,7 +3481,7 @@ fill="#0E7490"
 
 
 <rect
-x="930"
+x="912"
 y="177"
 width="14"
 height="14"
@@ -3561,7 +3491,7 @@ fill="#111C2E"
 
 
 <rect
-x="930"
+x="912"
 y="195"
 width="14"
 height="14"
@@ -3571,7 +3501,7 @@ fill="#111C2E"
 
 
 <rect
-x="930"
+x="912"
 y="213"
 width="14"
 height="14"
@@ -3581,7 +3511,7 @@ fill="#111C2E"
 
 
 <rect
-x="948"
+x="930"
 y="105"
 width="14"
 height="14"
@@ -3591,7 +3521,7 @@ fill="#164E63"
 
 
 <rect
-x="948"
+x="930"
 y="123"
 width="14"
 height="14"
@@ -3601,7 +3531,7 @@ fill="#0284C7"
 
 
 <rect
-x="948"
+x="930"
 y="141"
 width="14"
 height="14"
@@ -3611,7 +3541,7 @@ fill="#0E7490"
 
 
 <rect
-x="948"
+x="930"
 y="159"
 width="14"
 height="14"
@@ -3621,7 +3551,7 @@ fill="#164E63"
 
 
 <rect
-x="948"
+x="930"
 y="177"
 width="14"
 height="14"
@@ -3631,7 +3561,7 @@ fill="#38BDF8"
 
 
 <rect
-x="948"
+x="930"
 y="195"
 width="14"
 height="14"
@@ -3641,7 +3571,7 @@ fill="#164E63"
 
 
 <rect
-x="948"
+x="930"
 y="213"
 width="14"
 height="14"
@@ -3651,7 +3581,7 @@ fill="#38BDF8"
 
 
 <rect
-x="966"
+x="948"
 y="105"
 width="14"
 height="14"
@@ -3661,7 +3591,7 @@ fill="#0E7490"
 
 
 <rect
-x="966"
+x="948"
 y="123"
 width="14"
 height="14"
@@ -3671,7 +3601,7 @@ fill="#0284C7"
 
 
 <rect
-x="966"
+x="948"
 y="141"
 width="14"
 height="14"
@@ -3681,12 +3611,82 @@ fill="#0284C7"
 
 
 <rect
-x="966"
+x="948"
 y="159"
 width="14"
 height="14"
 rx="3"
 fill="#0284C7"
+/>
+
+
+<rect
+x="948"
+y="177"
+width="14"
+height="14"
+rx="3"
+fill="#164E63"
+/>
+
+
+<rect
+x="948"
+y="195"
+width="14"
+height="14"
+rx="3"
+fill="#164E63"
+/>
+
+
+<rect
+x="948"
+y="213"
+width="14"
+height="14"
+rx="3"
+fill="#164E63"
+/>
+
+
+<rect
+x="966"
+y="105"
+width="14"
+height="14"
+rx="3"
+fill="#164E63"
+/>
+
+
+<rect
+x="966"
+y="123"
+width="14"
+height="14"
+rx="3"
+fill="#164E63"
+/>
+
+
+<rect
+x="966"
+y="141"
+width="14"
+height="14"
+rx="3"
+fill="#164E63"
+/>
+
+
+<rect
+x="966"
+y="159"
+width="14"
+height="14"
+rx="3"
+fill="#111C2E"
 />
 
 
@@ -3729,67 +3729,7 @@ rx="3"
 fill="#164E63"
 />
 
-
-<rect
-x="984"
-y="123"
-width="14"
-height="14"
-rx="3"
-fill="#164E63"
-/>
-
-
-<rect
-x="984"
-y="141"
-width="14"
-height="14"
-rx="3"
-fill="#164E63"
-/>
-
-
-<rect
-x="984"
-y="159"
-width="14"
-height="14"
-rx="3"
-fill="#111C2E"
-/>
-
-
-<rect
-x="984"
-y="177"
-width="14"
-height="14"
-rx="3"
-fill="#164E63"
-/>
-
-
-<rect
-x="984"
-y="195"
-width="14"
-height="14"
-rx="3"
-fill="#164E63"
-/>
-
-
-<rect
-x="984"
-y="213"
-width="14"
-height="14"
-rx="3"
-fill="#111C2E"
-/>
-
-<text x="48" y="255" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="14px" font-weight="700" text-anchor="start">VISIBLE ACTIVITY: 213</text>
-<text x="48" y="282" fill="#94A3B8" font-family="Arial, sans-serif" font-size="12px" font-weight="500" text-anchor="start">RANGE: 06 Sep 2025 → 05 Sep 2026</text>
+<text x="48" y="255" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="14px" font-weight="700" text-anchor="start">VISIBLE ACTIVITY: 217</text>
+<text x="48" y="282" fill="#94A3B8" font-family="Arial, sans-serif" font-size="12px" font-weight="500" text-anchor="start">RANGE: 07 Sep 2025 → 06 Sep 2026</text>
 <text x="48" y="325" fill="#94A3B8" font-family="Arial, sans-serif" font-size="11px" font-weight="400" text-anchor="start">Dashboard generated by CY01-Hub GitHub Actions</text>
 </svg>
