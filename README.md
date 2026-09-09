@@ -26,12 +26,6 @@
 <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=CY01-Hub&label=PROFILE+VIEWS&style=flat-square&color=2563EB"/>
-
-</div>
-
 ---
 
 # 👨‍💻 About Me :-
@@ -140,25 +134,25 @@ architecture:
 
 <img src="https://skillicons.dev/icons?i=python,c,java" />
 
-<br><br>
+<br>
 
 ### ⚙️ Backend & APIs -
 
 <img src="https://skillicons.dev/icons?i=flask,fastapi" />
 
-<br><br>
+<br>
 
 ### 🗄️ Databases -
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
-<br><br>
+<br>
 
 ### 🌐 Web Technologies -
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
-<br><br>
+<br>
 
 ### 🐧 Systems & Development Tools -
 
@@ -201,7 +195,7 @@ AI-powered clinical document processing system designed to transform unstructure
 
 <code>Python</code> <code>Flask</code> <code>MySQL</code> <code>SQLAlchemy</code> <code>LLM APIs</code>
 
-<br><br>
+<br>
 
 <a href="YOUR_CLINIXPARSE_REPOSITORY_URL">
 <img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
@@ -237,7 +231,7 @@ AI-powered career intelligence platform designed to analyze candidate informatio
 
 <code>Python</code> <code>Flask</code> <code>MySQL</code> <code>SQLAlchemy</code> <code>LLM APIs</code>
 
-<br><br>
+<br>
 
 <a href="YOUR_PATHFORGE_REPOSITORY_URL">
 <img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
@@ -277,7 +271,7 @@ AI-powered document processing system that transforms educational material into 
 
 <code>Python</code> <code>Flask</code> <code>MySQL</code> <code>LLM APIs</code>
 
-<br><br>
+<br>
 
 <a href="YOUR_SYNTHETIX_REPOSITORY_URL">
 <img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
@@ -313,7 +307,7 @@ AI-assisted resume analysis platform focused on structured candidate data, ATS o
 
 <code>Python</code> <code>Flask</code> <code>MySQL</code> <code>SQLAlchemy</code>
 
-<br><br>
+<br>
 
 <a href="YOUR_RESUMATE_REPOSITORY_URL">
 <img src="https://img.shields.io/badge/SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
