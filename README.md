@@ -487,75 +487,15 @@ correct, readable and efficient.
 
 </div>
 
----
-
-# 🏆 Certifications :-
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="33%">
-
-<h2>🧠</h2>
-
-<b>Data Structures & Algorithms</b>
-
-<br><br>
-
-NPTEL • IIT Kanpur
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SCORE-77%25-2563EB?style=for-the-badge"/>
-
-<br>
-
-<sub>Top 5% Ranking</sub>
-
-</td>
-
-<td align="center" width="33%">
-
-<h2>💻</h2>
-
-<b>Programming in C</b>
-
-<br><br>
-
-NPTEL • IIT Kharagpur
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SCORE-56%25-7C3AED?style=for-the-badge"/>
-
-</td>
-
-<td align="center" width="33%">
-
-<h2>☕</h2>
-
-<b>Programming in Java</b>
-
-<br><br>
-
-NPTEL • IIT Kharagpur
-
-<br><br>
-
-<img src="https://img.shields.io/badge/2026-CERTIFIED-059669?style=for-the-badge"/>
-
-</td>
-
-</tr>
-</table>
-
 </div>
 
 ---
 
+<div align="center">
+
 # 🖥️ System Terminal :-
+
+</div>
 
 ```bash
 ┌──[CY01-Hub@github]──[~/workspace]
@@ -593,9 +533,9 @@ NPTEL • IIT Kharagpur
 
 ---
 
-# 🤝 Let's Connect :-
-
 <div align="center">
+
+# 🤝 Let's Connect :-
 
 I'm interested in **Cybersecurity, Backend Engineering, AI Systems and Software Development.**
 
