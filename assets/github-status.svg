@@ -226,13 +226,13 @@ fill="#111C2E"
 <rect
 x="190"
 y="414"
-width="117.36000000000001"
+width="116.64"
 height="18"
 rx="9"
 fill="#22C55E"
 />
 
-<text x="930" y="429" fill="#94A3B8" font-family="Arial, sans-serif" font-size="13px" font-weight="600" text-anchor="start">16.3%</text>
+<text x="930" y="429" fill="#94A3B8" font-family="Arial, sans-serif" font-size="13px" font-weight="600" text-anchor="start">16.2%</text>
 
 <rect
 x="40"
@@ -242,5 +242,5 @@ height="1"
 fill="url(#accent)"
 />
 
-<text x="48" y="545" fill="#94A3B8" font-family="Arial, sans-serif" font-size="11px" font-weight="600" text-anchor="start">LAST UPDATED // 07 Oct 2026 08:36 UTC</text>
+<text x="48" y="545" fill="#94A3B8" font-family="Arial, sans-serif" font-size="11px" font-weight="600" text-anchor="start">LAST UPDATED // 08 Oct 2026 08:55 UTC</text>
 </svg>
